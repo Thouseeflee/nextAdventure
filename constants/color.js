@@ -1,0 +1,25 @@
+const Color = {
+    primary: '#F26523',
+    secondary: '#063755',
+    white:'#ffffff',
+    IconBtn:'#E7F3F9',
+    black:'#000000',
+    IconBlack:'#000000',
+    lightGrey:'#cecece',
+    gray100: '#d4d4d4',
+    errorRed:'red',
+    grey:'grey',
+    searchBarGrey:'rgba(142, 142, 147, 0.12)',
+    searchText:'#8E8E93',
+    textColor:'#383B47',
+    updateItem:'#F4F7F8',
+    scrollbar: '#B7B7B7',
+    searchText:'#383B47',
+    isInactive:'#FFBF00',
+    RecipientBg:'#eaf2f7',
+    ScanIdle:'#FFBF00',
+    ScanSuccess:'green',
+    ScanFailed:'red',
+}
+
+export default Color;
